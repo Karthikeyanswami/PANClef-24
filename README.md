@@ -1,4 +1,5 @@
-# Oppositional Thinking Analysis: Conspiracy Theories vs. Critical Thinking Narratives
+# PANClef-24
+Task : Oppositional Thinking Analysis: Conspiracy Theories vs. Critical Thinking Narratives
 
 ## Overview
 
